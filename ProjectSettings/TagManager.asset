@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Locig
+  - Logic
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - bird
   - Water
   - UI
   - 
